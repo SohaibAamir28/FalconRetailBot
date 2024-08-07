@@ -1,0 +1,8 @@
+{
+    "rewrites":  [{  "source":  "/(.*)",  "destination":  "/api/RetailBot_backend"  }], 
+    "functions": { 
+        "api/RetailBot_backend.py": {
+            "maxDuration": 60
+        }
+    }
+}
