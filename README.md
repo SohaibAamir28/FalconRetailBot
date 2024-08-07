@@ -1,6 +1,7 @@
 # FalconRetailBot
 Objective: Develop an AI-driven customer service chatbot for retail and enterprise environments using Falcon’s advanced AI capabilities. The bot will act as a personalized shopping assistant.
-# FalconRetailBot[https://falcon-retail-bot.vercel.app]
+# FalconRetailBot Colab[https://colab.research.google.com/drive/1UHtmfMubp1CAaQiXUDYTWDWPh2TaNmJ_?usp=sharing]
+# FalconRetailBot Vercel[https://falcon-retail-bot.vercel.app]
 A user-rights initiative, powered by AI!
 
 <br/>
